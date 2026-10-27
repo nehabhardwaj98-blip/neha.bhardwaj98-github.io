@@ -1,0 +1,34 @@
+<table background="C:\Users\BCA40\Pictures\Screenshots\Screenshot 2025-12-09 144441.png" align="center" width="0"  cellpadding="40" cellspacing="20" border="2" >
+<caption align"center" ><h1> student id</h1></caption>
+<tr align="right">
+   <th>roll no 
+   <th>name
+   <th>class
+</tr>
+<tr>
+   <td valign="bottom">101
+   <td>ram
+   <td>10
+</tr>
+<tr>
+   <td>102
+   <td>sam
+   <td>+2
+</tr>
+<tr>
+   <td>103
+   <td>john
+   <td>10
+</tr>
+</table>
+
+
+
+
+//map
+
+<map name="computer">
+<area shape="rectangle" alt="windshield" coords="487,237,661,313" href="C:\Users\BCA40\Desktop\tanishq\wind.png">
+<area shape="circle" att="tyre" coords="611,441,60" href="C:\Users\BCA40\Desktop\tanishq\tyre.png">
+</map>
+<img src="C:\Users\BCA40\Desktop\tanishq\Screenshot 2025-12-09 144441.png" usemap="#computer">
